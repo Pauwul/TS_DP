@@ -21,6 +21,10 @@ From my point of view, I see them as overrated, but still useful. Some people ma
 
 The ideas of the solutions that design patterns point to are more important than the implementation itself.
 **Ideas over code.**
+## Structure
+1. [Creational Patterns](/Creational\ patterns/)
+1. [Structural Patterns](/Structural\ patterns/)
+1. [Behavioral Patterns](/Behavioral\ patterns/)
 ## Usage
 
 ```bash
